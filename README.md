@@ -4,4 +4,4 @@
 
 <img src="Preview.gif" alt="exemplo imagem">
 
-> A small and simple HTML project putting into practice basic knowledge about tags, fundamentals, hyperlink, semantics, attributes and among other concepts. In this project I also learned how to correctly organize an HTML structure, so that it benefits from ranking by search engines.
+> A project to test knowledge about forms in HTML. In this simple projects I applied the main functions of a form, at the moment it is not linked to anything but the concept is very important.
